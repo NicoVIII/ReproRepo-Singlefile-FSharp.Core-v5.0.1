@@ -1,0 +1,7 @@
+bin/
+obj/
+
+.ionide/
+paket-files/
+
+deploy/
